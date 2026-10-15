@@ -38,8 +38,6 @@ packaged tool. It is an archive of hobby work, not a library anyone else can run
 without the private `cards.cdb` and a DINOv2 GGUF. Do not describe it as a
 publishable product.
 
-**License:** none present. No LICENSE file and no license header in any source
-file. Treat as "all rights reserved / no license granted" by default. The
-external data it depends on (`cards.cdb`, card images from a third-party CDN,
-DINOv2 weights) has its own separate licensing and must not be redistributed
-with this code.
+**License:** See `LICENSE` for this repository's AGPL-3.0 license. External
+data it depends on (`cards.cdb`, card images from a third-party CDN, DINOv2
+weights) has separate licensing and is not covered by this license.
